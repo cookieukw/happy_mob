@@ -18,7 +18,7 @@ Inspirado em pets virtuais, foi feito para interagir de forma positiva com jogad
 
 Ele vaga pelo mapa, mas fica animado quando alguém se aproxima, pulando de alegria. É passivo (não ataca), mas foge se for magoado.
 
-> ![Happy Mob pulando perto de um jogador](link_da_imagem)
+
 
 ---
 
