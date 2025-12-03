@@ -9,7 +9,7 @@
 **Data:** 28/02/2025  
 **Dependências:** `default`, `mobs`
 
-> [!NOTE] É necessário instalar a dependência `mobs`, que vem junto do mod [Mobs Redo API](https://content.luanti.org/packages/TenPlus1/mobs/)
+[!NOTE] É necessário instalar a dependência `mobs`, que vem junto do mod [Mobs Redo API](https://content.luanti.org/packages/TenPlus1/mobs/)
 
 ---
 
